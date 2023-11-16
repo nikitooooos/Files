@@ -16,7 +16,7 @@ public class Human {
         return age;
     }
 
-    public List<String> getNavigationSystem() {
+    public List<String> getHobbiesList() {
         return hobbies;
     }
 }
