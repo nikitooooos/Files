@@ -16,7 +16,8 @@ public class Human {
         return age;
     }
 
-    public List<String> getHobbiesList() {
+    public List<String> getHobbies() {
+
         return hobbies;
     }
 }

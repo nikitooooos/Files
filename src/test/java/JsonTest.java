@@ -22,7 +22,7 @@ public class JsonTest {
 
             Assertions.assertEquals("Nikita", human.getName());
             Assertions.assertEquals(20, human.getAge());
-            Assertions.assertEquals(List.of("music", "sport", "books"), human.getHobbiesList());
+            Assertions.assertEquals(List.of("music", "sport", "books"), human.getHobbies());
         }
     }
 }
